@@ -5,9 +5,9 @@
 This repository contains the project files for analyzing and predicting car data. The project involves using machine learning techniques to predict various aspects related to cars, such as prices, performance, and specifications.
 
 The files included in this project are as follows:
-1. [Data Cleaning](https://github.com/yourusername/yourprojectname/blob/master/Data%20Cleaning.py) - This Python script includes the initial data processing steps such as handling missing values, normalizing data, and preparing it for further analysis.
-2. [Exploratory data Analysis](https://github.com/yourusername/yourprojectname/blob/master/Untitled1.py) - This script is used for feature extraction and engineering, as well as initial testing of machine learning models.
-3. [Car Prediction and Testing](https://github.com/yourusername/yourprojectname/blob/master/car%20prediction%20and%20testing.ipynb) - This Jupyter notebook contains the detailed analysis, model training, and predictions using various machine learning models.
+1. [Data Cleaning]([https://github.com/yourusername/yourprojectname/blob/master/Data%20Cleaning.py](https://github.com/Sam-2005/SC1015-Mini-Project/blob/main/Data%20Cleaning%20.ipynb)) - This Python script includes the initial data processing steps such as handling missing values, normalizing data, and preparing it for further analysis.
+2. [Exploratory data Analysis]([https://github.com/yourusername/yourprojectname/blob/master/Untitled1.py](https://github.com/Sam-2005/SC1015-Mini-Project/blob/main/Exploratory%20Data%20Analysis.ipynb)) - This script is used for feature extraction and engineering, as well as initial testing of machine learning models.
+3. [Car Prediction and Testing]([https://github.com/yourusername/yourprojectname/blob/master/car%20prediction%20and%20testing.ipynb](https://github.com/Sam-2005/SC1015-Mini-Project/blob/main/Car%20Recommendation%20System.ipynb)) - This Jupyter notebook contains the detailed analysis, model training, and predictions using various machine learning models.
 
 ## Dataset
 The dataset used for this project can be found [here]([https://linktodataset.com](https://www.kaggle.com/datasets/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw)). It contains various features of cars, including make, model, year, specifications, and price, which are used to train our predictive models.
