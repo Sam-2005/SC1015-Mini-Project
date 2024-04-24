@@ -1,5 +1,3 @@
-![alt text](file:///Users/mohika/Downloads/DALL%C2%B7E%202024-04-24%2019.51.46%20-%20An%20artistic%20representation%20of%20the%20concept%20of%20artificial%20intelligence,%20featuring%20futuristic%20and%20abstract%20elements%20such%20as%20circuit%20patterns,%20glowing%20neu.webp)
-# SC1015-Mini-Project
 # Car Prediction and Testing Project
 ## Overview
 This repository contains the project files for analyzing and predicting car data. The project involves using machine learning techniques to predict various aspects related to cars, such as prices, performance, and specifications.
