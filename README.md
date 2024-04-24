@@ -1,3 +1,4 @@
+![alt text](file:///Users/mohika/Downloads/DALL%C2%B7E%202024-04-24%2019.51.46%20-%20An%20artistic%20representation%20of%20the%20concept%20of%20artificial%20intelligence,%20featuring%20futuristic%20and%20abstract%20elements%20such%20as%20circuit%20patterns,%20glowing%20neu.webp)
 # SC1015-Mini-Project
 # Car Prediction and Testing Project
 ## Overview
@@ -9,7 +10,7 @@ The files included in this project are as follows:
 3. [Car Prediction and Testing](https://github.com/yourusername/yourprojectname/blob/master/car%20prediction%20and%20testing.ipynb) - This Jupyter notebook contains the detailed analysis, model training, and predictions using various machine learning models.
 
 ## Dataset
-The dataset used for this project can be found [here](https://linktodataset.com). It contains various features of cars, including make, model, year, specifications, and price, which are used to train our predictive models.
+The dataset used for this project can be found [here]([https://linktodataset.com](https://www.kaggle.com/datasets/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw)). It contains various features of cars, including make, model, year, specifications, and price, which are used to train our predictive models.
 
 ## Methodology
 ### Data Cleaning
@@ -25,23 +26,29 @@ After cleaning, the data undergoes a process of feature selection:
 - Initial model tests are performed to evaluate feature effectiveness
 
 ### Car Prediction and Testing
-Multiple machine learning models are tested in this phase:
-- Models like Random Forest, SVM, and neural networks are applied to predict car prices and specifications
+Machine learning models tested in this phase:
+- autoencoder which is a type of neural networks is applied to predict car prices and specifications
 - Hyperparameter tuning is conducted to optimize model performance
 - Model performance is evaluated based on metrics like RMSE, MAE, and R-squared
 
 ## Results
-This section would contain tables or graphs showing the performance of various models tested, emphasizing the most effective model(s) based on the evaluation metrics.
+This table denotes performance statistics for the models:
+
+| Accuracy       |      MSE      |
+| :---           |          ---: |
+|   99.970045%   |    0.000299   |
+
+![alt text](file:///Users/mohika/Documents/Screenshot%202024-04-24%20at%208.54.43%E2%80%AFPM.png)
 
 ## Conclusion
-The project demonstrates the effectiveness of various machine learning models in predicting car-related data. The results indicate which models perform best and how feature engineering significantly impacts model performance.
-
+In conclusion, we found that it is possible to recommend car listings with relatively high accuracy (>99%), despite the highly imbalanced parameter. More importantly, our model is able to hit almost 100% accuracy with recommending cars, which is important as creating a model that inaccurately recommends cars which are not according to the users preference.
 ## Contributors
-@yourgithubusername - Lead on model development and analysis<br>
-@collaborator1 - Data cleaning and preprocessing<br>
-@collaborator2 - Documentation and testing<br>
+@samjam2005-model development, data cleaning,EDA
+@ -model development, data cleaning,EDA
+@Himanshu492 -model development, data cleaning,EDA
 
 ## References
-- [Link to a machine learning resource](https://example.com)
-- [Link to a statistical analysis resource](https://example.com)
-- [Link to another relevant resource](https://example.com)
+- Goodfellow, Ian, et al. "Deep Learning." MIT Press, 2016. link
+- Chollet François, "Deep Learning with Python," Manning Publications, 2017.
+- TensorFlow Keras API documentation: https://www.tensorflow.org/api_docs/python/tf/keras
+- Scikit-learn documentation: https://scikit-learn.org
