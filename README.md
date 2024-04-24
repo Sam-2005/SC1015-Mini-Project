@@ -1,4 +1,4 @@
-![Alt text](images/Image.jpg)
+![Alt text](Image.jpg)
 
 # Car Prediction and Testing Project
 ## Overview
