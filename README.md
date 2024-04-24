@@ -38,14 +38,17 @@ This table denotes performance statistics for the models:
 | :---           |          ---: |
 |   99.970045%   |    0.000299   |
 
-![alt text](file:///Users/mohika/Documents/Screenshot%202024-04-24%20at%208.54.43%E2%80%AFPM.png)
+![Alt text](Result.jpg)
+
+**This graph tells us the loss in accuracy in testing and training data. The graph shows that the test data has a loss of 0.0014 giving us an accuracy of approximately 99.9986.** <br>
+**In general terms, if model is overfitting then training loss continues to decrease while validation loss starts to increase and if model is underfitting then both training and validation loss will be high.**
 
 ## Conclusion
 In conclusion, we found that it is possible to recommend car listings with relatively high accuracy (>99%), despite the highly imbalanced parameter. More importantly, our model is able to hit almost 100% accuracy with recommending cars, which is important as creating a model that inaccurately recommends cars which are not according to the users preference.
 ## Contributors
-@samjam2005-model development, data cleaning,EDA
-@ -model development, data cleaning,EDA
-@Himanshu492 -model development, data cleaning,EDA
+@samjam2005- Model Development, Data cleaning, EDA <br>
+@ - Model Development, Data Cleaning, EDA <br>
+@Himanshu492 - Model Development, Data Cleaning, EDA <br>
 
 ## References
 - Goodfellow, Ian, et al. "Deep Learning." MIT Press, 2016. link
