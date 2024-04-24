@@ -27,7 +27,7 @@ After cleaning, the data undergoes a process of feature selection:
 
 ### Car Prediction and Testing
 Machine learning models tested in this phase:
-- autoencoder which is a type of neural networks is applied to predict car prices and specifications
+- Autoencoder which is a type of neural networks is applied to predict car prices and specifications
 - Hyperparameter tuning is conducted to optimize model performance
 - Model performance is evaluated based on metrics like RMSE, MAE, and R-squared
 
