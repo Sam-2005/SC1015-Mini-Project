@@ -46,8 +46,8 @@ This table denotes performance statistics for the models:
 ## Conclusion
 In conclusion, we found that it is possible to recommend car listings with relatively high accuracy (>99%), despite the highly imbalanced parameter. More importantly, our model is able to hit almost 100% accuracy with recommending cars, which is important as creating a model that inaccurately recommends cars which are not according to the users preference.
 ## Contributors
-@samjam2005- Model Development, Data cleaning, EDA <br>
-@ - Model Development, Data Cleaning, EDA <br>
+@mohika6205 - Model Development, Data Cleaning, EDA <br>
+@samjam2005 - Model Development, Data cleaning, EDA <br>
 @Himanshu492 - Model Development, Data Cleaning, EDA <br>
 
 ## References
