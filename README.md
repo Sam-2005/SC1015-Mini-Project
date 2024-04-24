@@ -1,3 +1,5 @@
+![Alt text](images/Image.jpg)
+
 # Car Prediction and Testing Project
 ## Overview
 This repository contains the project files for analyzing and predicting car data. The project involves using machine learning techniques to predict various aspects related to cars, such as prices, performance, and specifications.
